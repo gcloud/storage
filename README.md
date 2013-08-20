@@ -1,7 +1,7 @@
 Storage
 =======
 
-[GCloud](http://gcloud.io) object storage packge for cloud services.
+[GCloud](http://gcloud.io), Go Packages for Cloud Services.
 
 API
 ---
